@@ -31,4 +31,5 @@ public class Areas {
     public void setAreasName(String areasName) {
         this.areasName = areasName;
     }
+
 }
