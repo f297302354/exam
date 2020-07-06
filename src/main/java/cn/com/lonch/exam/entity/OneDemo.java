@@ -3,7 +3,7 @@ package cn.com.lonch.exam.entity;
 public class OneDemo {
 
     /**
-     * branch-branch !!! local conflict~~~
+     * branch-branch !!! local!
      */
     private int id;
 
