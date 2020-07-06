@@ -3,7 +3,7 @@ package cn.com.lonch.exam.entity;
 public class OneDemo {
 
     /**
-     * branch-branch !!! revert
+     * branch-branch !!!
      */
     private int id;
 
